@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82294057555",
+    "project_id": "prodi-84737",
+    "storage_bucket": "prodi-84737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82294057555:android:7e69d47f07b38dc07e74a6",
+        "android_client_info": {
+          "package_name": "com.prodi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82294057555-rq5kukgqnhse34t203qr0nsl2bl4k5fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJAHyDM3YWAhda7mEnZ1uQF1a3HLp-Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82294057555-rq5kukgqnhse34t203qr0nsl2bl4k5fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
